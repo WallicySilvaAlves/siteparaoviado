@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Modak&family=Parkinsans&family=Playwrite+PT+Guides&family=Rubik+Spray+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&family=Bebas+Neue&family=Modak&family=Parkinsans&family=Playwrite+PT+Guides&family=Rubik+Spray+Paint&display=swap');
 :root{
     --cor0:orange;
     --cor1:#1098f7;
@@ -10,8 +10,8 @@
    
 
     --font-p:Arial, Helvetica, sans-serif;
-    --font-d:"Modak", serif;
-    --font-f:"Rubik Spray Paint", serif;
+    --font-d:"Bebas Neue", serif;
+    --font-f:"Agu Display", serif;
 }
 *{
     margin: 0px;
